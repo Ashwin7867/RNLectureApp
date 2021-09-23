@@ -1,0 +1,3 @@
+export const ADD_SECTION = "ADD_SECTION";
+export const ADD_LECTURE = "ADD_LECTURE";
+export const DELETE_LECTURE = "DELETE LECTURE";
